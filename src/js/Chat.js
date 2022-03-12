@@ -1,4 +1,4 @@
-//import moment from 'react-moment'
+// import moment from 'react-moment'
 
 const moment = require('moment');
 
